@@ -1,0 +1,7 @@
+The compared two evaluation functions. 
+The first function looking for consecutive block in line for scores.
+The second function looking for number of blocks in line for scores.
+
+The second approach tends to have better moves.
+
+Due to the time is not sufficient to implement more evaluations scoring algorithms, I haven’t finished more testings that I have proposed.
